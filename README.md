@@ -1,5 +1,5 @@
-# opencore-catalina
-* OpenCore 0.5.7
+# clover-catalina
+* Clover 5.0 r5108
 * Gigabyte Aurus z390 pro 
 * Intel i7-9700k
 * Radeon 5700XT
