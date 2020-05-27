@@ -1,5 +1,5 @@
 
-Clover EFI installer log - Mon Apr 20 11:01:42 CEST 2020
+Clover EFI installer log - Fri Apr 24 09:25:16 CEST 2020
 Installer version: r5108 EFI bootloader
 ======================================================
 /dev/disk0 (internal, physical):
@@ -20,7 +20,7 @@ Installer version: r5108 EFI bootloader
    #:                       TYPE NAME                    SIZE       IDENTIFIER
    0:      APFS Container Scheme -                      +499.9 GB   disk2
                                  Physical Store disk0s2
-   1:                APFS Volume Macintosh SSD - Data    375.0 GB   disk2s1
+   1:                APFS Volume Macintosh SSD - Data    358.6 GB   disk2s1
    2:                APFS Volume Preboot                 82.5 MB    disk2s2
    3:                APFS Volume Recovery                528.4 MB   disk2s3
    4:                APFS Volume VM                      2.1 GB     disk2s4
@@ -37,7 +37,7 @@ Target volume /Volumes/Macintosh SSD on disk2 is APFS on physical store disk0s2
 ======================================================
 Backing up EFI files
 
-Backing up /Volumes/Macintosh SSD/EFIROOTDIR/EFI folder to /Volumes/Macintosh SSD/EFI-Backups/r  Board-ID       : 5113/2020-04-20-11h01/EFI
+Backing up /Volumes/Macintosh SSD/EFIROOTDIR/EFI folder to /Volumes/Macintosh SSD/EFI-Backups/r  Board-ID       : 5114/2020-04-24-09h25/EFI
 ======================================================
 Installing BootSectors/BootLoader
 
